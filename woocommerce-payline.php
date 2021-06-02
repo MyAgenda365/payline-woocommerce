@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Payline
+ * Plugin Name: Payline By Monext
  * Plugin URI: http://www.payline.com
  * Description: integrations of Payline payment solution in your WooCommerce store
  * Version: 1.3.6
